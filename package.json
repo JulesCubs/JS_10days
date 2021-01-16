@@ -1,0 +1,15 @@
+{
+  "name": "js_10days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JS_10days",
+  "scripts": {
+    "start": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
