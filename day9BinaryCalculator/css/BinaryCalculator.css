@@ -1,0 +1,33 @@
+#content {
+    width: 33%;
+}
+#res {
+    background-color: lightray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+button {
+    width: 24%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0;
+}
+#btn0
+#btn1 {
+    background-color: lightgreen;
+    font: brown;
+}
+#btnClr
+#btnEql {
+    background-color: darkgreen;
+    font: white;
+}
+#btnSum
+#btnSub
+#btnMul
+#btnDiv {
+    background-color: black;
+    font: red;
+}
+/*and float value left.*/
